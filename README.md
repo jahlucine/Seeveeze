@@ -1,9 +1,9 @@
 # Seeveeze
 php text Punctuation checker
 
-A version of the auto punctuation function used in seeveeze <a href="http://www.seeveeze.com">cv online</a>
+A version of the auto punctuation function used in seeveeze <a href="https://www.seeveeze.com">cv online</a>
 
-Check our other creations on <a href="http://www.trafiklite.com">Traffic Estimate</a>
+Check our other creations on <a href="https://www.trafiklite.com">Traffic Estimate</a>
 
 Check our other creations on <a href="http://www.grandbastard.com">chess Puzzles</a>
 
