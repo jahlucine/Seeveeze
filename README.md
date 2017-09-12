@@ -1,15 +1,14 @@
 # Seeveeze
 php text Punctuation checker
 
-A version of the auto punctuation function used in seeveeze www.seeveeze.com
+A version of the auto punctuation function used in seeveeze <a href="http://www.seeveeze.com">cv online</a>
 
-Check our other creations at www.trafiklite.com
+Check our other creations on <a href="http://www.trafiklite.com">Traffic Estimate</a>
 
-Check our other creations at www.grandbastard.com
+Check our other creations on <a href="http://www.grandbastard.com">chess Puzzles</a>
 
-Check our other creations at www.hectorthevector.com
+Check our other creations to <a href="http://www.hectorthevector.com">Vectorize PNG SVG</a>
 
+Check our other creations on <a href="http://www.diplocodus.com">Website Creation</a>
 
-Check our other creations at www.diplocodus.com
-
-Behance page : https://www.behance.net/mikehiggins2
+Behance page : <a href="https://www.behance.net/mikehiggins2">cv online</a>
